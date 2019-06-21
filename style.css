@@ -1,8 +1,8 @@
-nav ul {
+nav{
  list-style:none;
  background-color:red;
  text-align:center;
- width 30px;
+ width: 30px;
  height:30px;
 }
 nav li {
@@ -26,16 +26,14 @@ h1 {
  font-style:italic;
  text-shadow: 5px 10px 0px #777;
 }
-footer nav ul{
+footer ul li{
  background-color:blue;
- margin:none;
- 
- 
 }
+
 body {
  background-color: orange;
- 
 }
+
 #borderbox1 {
  width: 520px;
  height: 520px;
@@ -49,7 +47,7 @@ body {
 #borderbox2 {
  width: 520px;
  height: 520px;
- border:1px solid black;
+ border: 1px solid black;
  display:inline-block;
  margin-right:2.5%;
  background-color: green;
@@ -59,9 +57,11 @@ body {
 @media(min-width:700px){
  #borderbox1 {
   background-color:yellow;
+
  
 }
 #borderbox2{
  background-color: purple;
+
 }
 }

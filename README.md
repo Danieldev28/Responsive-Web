@@ -1,4 +1,3 @@
-         ___        ______     ____ _                 _  ___  
     #Welcome To My Second Project
     
     This is another documentation of my progress using html and css. I 
